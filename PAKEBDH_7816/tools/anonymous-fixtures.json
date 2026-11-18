@@ -1,0 +1,19 @@
+{
+  "public_test_fixture": true,
+  "signature_algorithm": "ML-DSA-44",
+  "card_kem": "ML-KEM-512",
+  "issuer_subject": "CN=Sample Issuer CA,O=Test Org,C=ZZ",
+  "card_subject": "CN=4502123456789012,O=Test,C=ZZ",
+  "not_before": "2020-01-01T00:00:00Z",
+  "not_after": "2049-12-31T23:59:59Z",
+  "issuer_serial_hex": "010000000001",
+  "card_serial_hex": "010000000002",
+  "cert_c_bytes": 3444,
+  "cert_is_bytes": 3960,
+  "cert_c_sha256": "04cb3744cb56abda091f14cf0171eeec8d4363d9eee6d30591c2d5abc6c3ac5b",
+  "cert_is_sha256": "f7c088eef0677c4a1aca977c612d2061f47a51c7eb53d05258c4ea63b9ad63d8",
+  "card_public_key_sha256": "27abe9a003947c418de1d03afae8bd341aa935a365dcdcfec405a7d8e1b3121b",
+  "issuer_public_key_sha256": "8a77a641545887b4b820413e3dd02b0e87d984e82b8c5d97c71ef807d40a4b61",
+  "issuer_private_key_exported": false,
+  "scope": "Public laboratory credentials, not payment-system production credentials"
+}

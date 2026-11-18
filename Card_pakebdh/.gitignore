@@ -1,0 +1,8 @@
+/Build/
+/Objects/
+/Listings/
+/*.bin
+/*.uvguix.*
+/*.uvoptx
+/JLinkLog.txt
+/JLinkSettings.ini

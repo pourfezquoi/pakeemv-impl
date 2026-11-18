@@ -1,0 +1,277 @@
+{
+  "sources": [
+    {
+      "file": "upstream/kyber/AUTHORS",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "AUTHORS",
+      "git_blob": "bb483c8017f7a682c351112d16cf70abb6cb3f56"
+    },
+    {
+      "file": "upstream/kyber/LICENSE",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "LICENSE",
+      "git_blob": "7922ab8007d6dd174d4999b678dc3cef5af48a4f"
+    },
+    {
+      "file": "upstream/kyber/api.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/api.h",
+      "git_blob": "70d40f3f3e17eb74874d56448308618b5bf09862"
+    },
+    {
+      "file": "upstream/kyber/cbd.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/cbd.c",
+      "git_blob": "1500ffea56c95151dfb940f0197669f7df6fee0e"
+    },
+    {
+      "file": "upstream/kyber/cbd.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/cbd.h",
+      "git_blob": "7b677d745dbf63818507a5f22b9787cb472b3ba1"
+    },
+    {
+      "file": "upstream/kyber/fips202.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/fips202.c",
+      "git_blob": "ab3d2a12108bd8395467290c74b829cfe3c9048c"
+    },
+    {
+      "file": "upstream/kyber/fips202.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/fips202.h",
+      "git_blob": "df2dde57ea363deee3183fc035ba1237b612af4c"
+    },
+    {
+      "file": "upstream/kyber/indcpa.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/indcpa.c",
+      "git_blob": "f96a25b8309a6945162bf6e4496b634290fe9779"
+    },
+    {
+      "file": "upstream/kyber/indcpa.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/indcpa.h",
+      "git_blob": "1134bacf1b4dccb5e2cd5adc9a12b3037b852b82"
+    },
+    {
+      "file": "upstream/kyber/kem.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/kem.c",
+      "git_blob": "f260e04b25da916ed3561127ce95ae14f4507e01"
+    },
+    {
+      "file": "upstream/kyber/kem.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/kem.h",
+      "git_blob": "234f11966b960079979243453b24e916e99fee05"
+    },
+    {
+      "file": "upstream/kyber/ntt.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/ntt.c",
+      "git_blob": "2f2eb10b2f28443b45f9b42d20a76a58dd3163ba"
+    },
+    {
+      "file": "upstream/kyber/ntt.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/ntt.h",
+      "git_blob": "227ea74f08dfed2c0362894c4438217ee3d826d3"
+    },
+    {
+      "file": "upstream/kyber/params.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/params.h",
+      "git_blob": "0802c74805aaf8662f5c9185c9afc78448988ca5"
+    },
+    {
+      "file": "upstream/kyber/poly.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/poly.c",
+      "git_blob": "cbd3abfb54e9abac22568963e04b688dcadda516"
+    },
+    {
+      "file": "upstream/kyber/poly.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/poly.h",
+      "git_blob": "9a99c7cdadcf86c592b369058363f56c92ae1dbc"
+    },
+    {
+      "file": "upstream/kyber/polyvec.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/polyvec.c",
+      "git_blob": "19df1ae7aca95908d459c5c4fed8ed7951f33933"
+    },
+    {
+      "file": "upstream/kyber/polyvec.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/polyvec.h",
+      "git_blob": "b6b09fa45b2e6c20a8466a7566c68919948908e3"
+    },
+    {
+      "file": "upstream/kyber/randombytes.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/randombytes.h",
+      "git_blob": "619b7f9a93231573f421750bf855cdbecf64ec7e"
+    },
+    {
+      "file": "upstream/kyber/reduce.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/reduce.c",
+      "git_blob": "9d8e7edf832de498284bef5367918991262c3ce1"
+    },
+    {
+      "file": "upstream/kyber/reduce.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/reduce.h",
+      "git_blob": "c1bc1e4c7b09d8f8231f1c1998b163087ed08ffa"
+    },
+    {
+      "file": "upstream/kyber/rej_uniform.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/rej_uniform.c",
+      "git_blob": "9b5ca4f40ad02f4080fb97080791bf5b2e9a4934"
+    },
+    {
+      "file": "upstream/kyber/rej_uniform.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/rej_uniform.h",
+      "git_blob": "69e3c07e32d11e590ebb8e4a2f4c0d1d835c5117"
+    },
+    {
+      "file": "upstream/kyber/symmetric-shake.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/symmetric-shake.c",
+      "git_blob": "6a990719fd2e759e397400b6b695375aebd71273"
+    },
+    {
+      "file": "upstream/kyber/symmetric.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/symmetric.h",
+      "git_blob": "58e6ece80bf32d283901af201d268c347818b7ce"
+    },
+    {
+      "file": "upstream/kyber/verify.c",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/verify.c",
+      "git_blob": "914ccd448f597bcbf9dc099c0d6e4e820153cb71"
+    },
+    {
+      "file": "upstream/kyber/verify.h",
+      "repository": "mbbarbosa/kyber",
+      "revision": "51fbde797f32c228976777021144a69e45b5fcd8",
+      "upstream_path": "ref/verify.h",
+      "git_blob": "09f0ad50461605a412e83db2dfe6ebabaad4db3a"
+    },
+    {
+      "file": "upstream/AUTHORS",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "AUTHORS",
+      "git_blob": "cca839874e36ad62e34b292954b380b7c10d4b25"
+    },
+    {
+      "file": "upstream/LICENSE",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "LICENSE",
+      "git_blob": "bfe4dc6fdf709d305193a4ba6c0fe4c449eb1606"
+    },
+    {
+      "file": "upstream/chic/api.h",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/api.h",
+      "git_blob": "7c48cc3fead8c8446039e7c58a94e658b205e2a4"
+    },
+    {
+      "file": "upstream/chic/hic.c",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/hic.c",
+      "git_blob": "6b28184b160610047c10d36397f338ef11a4dfc6"
+    },
+    {
+      "file": "upstream/chic/hic.h",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/hic.h",
+      "git_blob": "b910b1bbb634e1d515d917539c8843845c526a87"
+    },
+    {
+      "file": "upstream/chic/pake.c",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/pake.c",
+      "git_blob": "10b14b3e8763df4209831d2f8383279eca188dbd"
+    },
+    {
+      "file": "upstream/chic/pake.h",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/pake.h",
+      "git_blob": "fc5e3291e6f0a6182d048494185fa580d3066570"
+    },
+    {
+      "file": "upstream/chic/rijndael256/rijndael.c",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/rijndael256/rijndael.c",
+      "git_blob": "950eef145a5ed85fcc59062669645caafe1dbcd7"
+    },
+    {
+      "file": "upstream/chic/rijndael256/rijndael.h",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/rijndael256/rijndael.h",
+      "git_blob": "aa2734708c0cdccb6bab9f9639d4c589b8018a91"
+    },
+    {
+      "file": "upstream/chic/rijndael256/tables.c",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/rijndael256/tables.c",
+      "git_blob": "ad91b2518c64282c56b1e7840013bac7af4c5208"
+    },
+    {
+      "file": "upstream/chic/rijndael256/tables.h",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "c/chic/ref/rijndael256/tables.h",
+      "git_blob": "f9aff72467de1ab66b0309efbf6978793d4b1e46"
+    },
+    {
+      "file": "upstream/README.md",
+      "repository": "mbbarbosa/pake-constructions",
+      "revision": "ddf94132d343227df0dc051664d1ad95f672a81e",
+      "upstream_path": "README.md",
+      "git_blob": "45d43cc8c8625a74456aa2fbfeaa5040e6fbff10"
+    }
+  ]
+}
